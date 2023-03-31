@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @albertejuku
-- 👀 I’m interested in computer programming and software engineering
-- 💞️ I’m looking to collaborate with the amazing github community
-- 📫 How to reach me ... email: albertejuku92@gmail.com
+- 👋 Hi, I mostly write code. 
+- 📫 How to reach me ... 
+-     email: albertejuku92@gmail.com
 
 <!---
 albertejuku/albertejuku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
