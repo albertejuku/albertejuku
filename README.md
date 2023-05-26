@@ -1,6 +1,5 @@
 - 👋 Hi, I mostly write code. 
 - 📫 How to reach me ... 
--     email: albertejuku92@gmail.com
 
 <!---
 albertejuku/albertejuku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
